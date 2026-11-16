@@ -4,42 +4,42 @@
       "id": 1,
       "title": "শেষ রাতের ডাক",
       "author": "BookVerse",
-      "image": "https://raw.githubusercontent.com/YOUR_USERNAME/bangla-horror-api/main/images/story-1.jpg",
+      "image": "https://raw.githubusercontent.com/alamin990-E/bangla-horror-api/main/images/story-1.jpg",
       "description": "একটি নির্জন গ্রামের পুরোনো বাড়িতে প্রতি রাতে অদ্ভুত ডাক শোনা যায়। এক রাতে সেই ডাকের উৎস খুঁজতে গিয়ে রায়হান এমন এক সত্যের মুখোমুখি হয়, যা তার ফিরে আসার পথ বন্ধ করে দেয়।"
     },
     {
       "id": 2,
       "title": "অভিশপ্ত আয়না",
       "author": "BookVerse",
-      "image": "https://raw.githubusercontent.com/YOUR_USERNAME/bangla-horror-api/main/images/story-2.jpg",
+      "image": "https://raw.githubusercontent.com/alamin990-E/bangla-horror-api/main/images/story-2.jpg",
       "description": "পুরোনো একটি আয়নায় মিতু নিজের প্রতিবিম্বের পেছনে আরেকটি মুখ দেখতে পায়। প্রথমে সে বিষয়টি কল্পনা বলে উড়িয়ে দিলেও, একসময় প্রতিবিম্বটি তার আগেই নড়াচড়া শুরু করে।"
     },
     {
       "id": 3,
       "title": "জঙ্গলের শেষ বাড়ি",
       "author": "BookVerse",
-      "image": "https://raw.githubusercontent.com/YOUR_USERNAME/bangla-horror-api/main/images/story-3.jpg",
+      "image": "https://raw.githubusercontent.com/alamin990-E/bangla-horror-api/main/images/story-3.jpg",
       "description": "ঘন জঙ্গলে পথ হারিয়ে কয়েকজন বন্ধু একটি পরিত্যক্ত বাড়িতে আশ্রয় নেয়। রাত গভীর হলে বাড়ির ভেতর থেকে তাদের নাম ধরে ডাকতে থাকে এমন কেউ, যার সেখানে থাকার কথা নয়।"
     },
     {
       "id": 4,
       "title": "রাত বারোটার ট্রেন",
       "author": "BookVerse",
-      "image": "https://raw.githubusercontent.com/YOUR_USERNAME/bangla-horror-api/main/images/story-4.jpg",
+      "image": "https://raw.githubusercontent.com/alamin990-E/bangla-horror-api/main/images/story-4.jpg",
       "description": "মধ্যরাতে শেষ ট্রেনে ওঠে সায়েম। ফাঁকা কামরায় একে একে অদ্ভুত যাত্রী দেখা দিতে থাকে। গন্তব্যে পৌঁছে সে জানতে পারে, বহু বছর আগে ওই রুটের শেষ ট্রেনটি দুর্ঘটনায় পড়েছিল।"
     },
     {
       "id": 5,
       "title": "১৩ নম্বর ঘর",
       "author": "BookVerse",
-      "image": "https://raw.githubusercontent.com/YOUR_USERNAME/bangla-horror-api/main/images/story-5.jpg",
+      "image": "https://raw.githubusercontent.com/alamin990-E/bangla-horror-api/main/images/story-5.jpg",
       "description": "পুরোনো হোটেলের ১৩ নম্বর ঘরটি সবসময় তালাবদ্ধ থাকে। নতুন কর্মচারী তানভীর এক রাতে ঘরটির ভেতর থেকে সাহায্যের আওয়াজ শুনে দরজা খুলে ফেলে।"
     },
     {
       "id": 6,
       "title": "বন্ধ জানালার ওপাশে",
       "author": "BookVerse",
-      "image": "https://raw.githubusercontent.com/YOUR_USERNAME/bangla-horror-api/main/images/story-6.jpg",
+      "image": "https://raw.githubusercontent.com/alamin990-E/bangla-horror-api/main/images/story-6.jpg",
       "description": "নতুন বাসায় ওঠার পর নীলা প্রতিরাতে জানালার ওপাশে এক নারীর ছায়া দেখতে পায়। জানালাটি তিনতলায়, বাইরে দাঁড়ানোর কোনো জায়গা নেই—তবু ছায়াটি প্রতিরাতে আরও কাছে আসে।"
     }
   ]
